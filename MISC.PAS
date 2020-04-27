@@ -5,12 +5,6 @@ Unit Misc;
 
 
 interface
-uses crt;
-
-
-const
- copyright : string = #10+#13+' Misc routines v1.2 (c) 2000/2001 by Jan Knipperts '+#10+#13;
-
 
 type
  {Fr Bitoperationen :}
