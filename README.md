@@ -1,2 +1,3 @@
 # Intro
 Old Pascal Source for an Intro/Cracktro with a nice "waving Blocks" effect.
+I wrote this over 20 years ago.....
